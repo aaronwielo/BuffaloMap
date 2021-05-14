@@ -1,4 +1,4 @@
-# BuffaloMap
+# Buffalo Bus Tracker for Food Between City Hall and Elmwood Village.
 Description
 This shows all the food stop between Buffalo City Hall and The Kenmore Elmwood Village
 
@@ -6,6 +6,9 @@ How to run
 Download
 Open index.html on a web broser
 Click on the button
+
+Road Map for improvment
+I will stlye the markers and button to better fit this project.
 
 License
 MIT License
