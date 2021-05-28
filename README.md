@@ -4,7 +4,7 @@ This program shows the current location of some Busses in LA. Hollywood, Beverly
 # How to Run: 
 Click the green code button and download the zip. Un-zip the file and drag the index.html file onto chrome. 
 # Roadmap of future improvements: 
-In the near future, I would like fix a bug that happens with GitHub. THis prgram runs fine from my computer, but GitHub seems to have trouble running it correctly.
+In the near future, I would like fix a bug that happens with-in GitHub in regards to this repo. This prgram runs fine from my computer, but GitHub seems to have trouble running it correctly.
 # License information: 
 MIT License
 Copyright (c) 2020 John Williams
